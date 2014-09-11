@@ -1,0 +1,4 @@
+This .txt is newly created and will create conflict.
+I will have to merge it with the previous one!
+
+It seems that it overwrited the previous one?!
