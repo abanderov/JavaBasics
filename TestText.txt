@@ -1,1 +1,3 @@
 New file for testing git pull.
+
+Now I have added some new text.
