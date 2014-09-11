@@ -1,1 +1,5 @@
 New file for testing git pull.
+
+Now I have added some new text.
+
+This line of text will create conflict.
